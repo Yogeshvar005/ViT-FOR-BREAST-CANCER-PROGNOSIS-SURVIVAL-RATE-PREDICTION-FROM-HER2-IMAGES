@@ -1,0 +1,18 @@
+gradio
+opencv-python
+numpy
+Pillow
+pandas
+seaborn
+scikit-learn
+timm
+transformers
+accelerate
+matplotlib
+optuna
+flask
+lifelines
+scikit-survival
+joblib
+scipy
+# torch, torchvision, torchaudio are provided by the base pytorch image
