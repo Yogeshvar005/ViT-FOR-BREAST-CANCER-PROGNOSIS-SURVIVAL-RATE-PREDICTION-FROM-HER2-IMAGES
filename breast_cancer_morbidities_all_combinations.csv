@@ -1,0 +1,351 @@
+Patient_ID,Stage,Age_Category,Morbidity_Category,Morbidity
+P0001,Stage 0,<30,Cardiovascular,Heart Attack/Arrhythmias
+P0002,Stage 0,<30,Cardiovascular,Hypertension
+P0003,Stage 0,<30,Cardiovascular,Stroke
+P0004,Stage 0,<30,Respiratory,Asthma
+P0005,Stage 0,<30,Respiratory,Pulmonary Fibrosis
+P0006,Stage 0,<30,Metabolic/Endocrine,Diabetes
+P0007,Stage 0,<30,Metabolic/Endocrine,Thyroid
+P0008,Stage 0,<30,Metabolic/Endocrine,Obesity
+P0009,Stage 0,<30,Renal,Dialysis
+P0010,Stage 0,<30,Renal,Kidney Stone
+P0011,Stage 0,<30,Bones,Arthritis
+P0012,Stage 0,<30,Bones,Lupus/Sclerosis
+P0013,Stage 0,<30,Infectious,HIV/Hepatitis/Tuberculosis
+P0014,Stage 0,<30,Infectious,UTI/Dental Infection
+P0015,Stage 0,30-39,Cardiovascular,Heart Attack/Arrhythmias
+P0016,Stage 0,30-39,Cardiovascular,Hypertension
+P0017,Stage 0,30-39,Cardiovascular,Stroke
+P0018,Stage 0,30-39,Respiratory,Asthma
+P0019,Stage 0,30-39,Respiratory,Pulmonary Fibrosis
+P0020,Stage 0,30-39,Metabolic/Endocrine,Diabetes
+P0021,Stage 0,30-39,Metabolic/Endocrine,Thyroid
+P0022,Stage 0,30-39,Metabolic/Endocrine,Obesity
+P0023,Stage 0,30-39,Renal,Dialysis
+P0024,Stage 0,30-39,Renal,Kidney Stone
+P0025,Stage 0,30-39,Bones,Arthritis
+P0026,Stage 0,30-39,Bones,Lupus/Sclerosis
+P0027,Stage 0,30-39,Infectious,HIV/Hepatitis/Tuberculosis
+P0028,Stage 0,30-39,Infectious,UTI/Dental Infection
+P0029,Stage 0,40-49,Cardiovascular,Heart Attack/Arrhythmias
+P0030,Stage 0,40-49,Cardiovascular,Hypertension
+P0031,Stage 0,40-49,Cardiovascular,Stroke
+P0032,Stage 0,40-49,Respiratory,Asthma
+P0033,Stage 0,40-49,Respiratory,Pulmonary Fibrosis
+P0034,Stage 0,40-49,Metabolic/Endocrine,Diabetes
+P0035,Stage 0,40-49,Metabolic/Endocrine,Thyroid
+P0036,Stage 0,40-49,Metabolic/Endocrine,Obesity
+P0037,Stage 0,40-49,Renal,Dialysis
+P0038,Stage 0,40-49,Renal,Kidney Stone
+P0039,Stage 0,40-49,Bones,Arthritis
+P0040,Stage 0,40-49,Bones,Lupus/Sclerosis
+P0041,Stage 0,40-49,Infectious,HIV/Hepatitis/Tuberculosis
+P0042,Stage 0,40-49,Infectious,UTI/Dental Infection
+P0043,Stage 0,50-59,Cardiovascular,Heart Attack/Arrhythmias
+P0044,Stage 0,50-59,Cardiovascular,Hypertension
+P0045,Stage 0,50-59,Cardiovascular,Stroke
+P0046,Stage 0,50-59,Respiratory,Asthma
+P0047,Stage 0,50-59,Respiratory,Pulmonary Fibrosis
+P0048,Stage 0,50-59,Metabolic/Endocrine,Diabetes
+P0049,Stage 0,50-59,Metabolic/Endocrine,Thyroid
+P0050,Stage 0,50-59,Metabolic/Endocrine,Obesity
+P0051,Stage 0,50-59,Renal,Dialysis
+P0052,Stage 0,50-59,Renal,Kidney Stone
+P0053,Stage 0,50-59,Bones,Arthritis
+P0054,Stage 0,50-59,Bones,Lupus/Sclerosis
+P0055,Stage 0,50-59,Infectious,HIV/Hepatitis/Tuberculosis
+P0056,Stage 0,50-59,Infectious,UTI/Dental Infection
+P0057,Stage 0,60+,Cardiovascular,Heart Attack/Arrhythmias
+P0058,Stage 0,60+,Cardiovascular,Hypertension
+P0059,Stage 0,60+,Cardiovascular,Stroke
+P0060,Stage 0,60+,Respiratory,Asthma
+P0061,Stage 0,60+,Respiratory,Pulmonary Fibrosis
+P0062,Stage 0,60+,Metabolic/Endocrine,Diabetes
+P0063,Stage 0,60+,Metabolic/Endocrine,Thyroid
+P0064,Stage 0,60+,Metabolic/Endocrine,Obesity
+P0065,Stage 0,60+,Renal,Dialysis
+P0066,Stage 0,60+,Renal,Kidney Stone
+P0067,Stage 0,60+,Bones,Arthritis
+P0068,Stage 0,60+,Bones,Lupus/Sclerosis
+P0069,Stage 0,60+,Infectious,HIV/Hepatitis/Tuberculosis
+P0070,Stage 0,60+,Infectious,UTI/Dental Infection
+P0071,Stage I,<30,Cardiovascular,Heart Attack/Arrhythmias
+P0072,Stage I,<30,Cardiovascular,Hypertension
+P0073,Stage I,<30,Cardiovascular,Stroke
+P0074,Stage I,<30,Respiratory,Asthma
+P0075,Stage I,<30,Respiratory,Pulmonary Fibrosis
+P0076,Stage I,<30,Metabolic/Endocrine,Diabetes
+P0077,Stage I,<30,Metabolic/Endocrine,Thyroid
+P0078,Stage I,<30,Metabolic/Endocrine,Obesity
+P0079,Stage I,<30,Renal,Dialysis
+P0080,Stage I,<30,Renal,Kidney Stone
+P0081,Stage I,<30,Bones,Arthritis
+P0082,Stage I,<30,Bones,Lupus/Sclerosis
+P0083,Stage I,<30,Infectious,HIV/Hepatitis/Tuberculosis
+P0084,Stage I,<30,Infectious,UTI/Dental Infection
+P0085,Stage I,30-39,Cardiovascular,Heart Attack/Arrhythmias
+P0086,Stage I,30-39,Cardiovascular,Hypertension
+P0087,Stage I,30-39,Cardiovascular,Stroke
+P0088,Stage I,30-39,Respiratory,Asthma
+P0089,Stage I,30-39,Respiratory,Pulmonary Fibrosis
+P0090,Stage I,30-39,Metabolic/Endocrine,Diabetes
+P0091,Stage I,30-39,Metabolic/Endocrine,Thyroid
+P0092,Stage I,30-39,Metabolic/Endocrine,Obesity
+P0093,Stage I,30-39,Renal,Dialysis
+P0094,Stage I,30-39,Renal,Kidney Stone
+P0095,Stage I,30-39,Bones,Arthritis
+P0096,Stage I,30-39,Bones,Lupus/Sclerosis
+P0097,Stage I,30-39,Infectious,HIV/Hepatitis/Tuberculosis
+P0098,Stage I,30-39,Infectious,UTI/Dental Infection
+P0099,Stage I,40-49,Cardiovascular,Heart Attack/Arrhythmias
+P0100,Stage I,40-49,Cardiovascular,Hypertension
+P0101,Stage I,40-49,Cardiovascular,Stroke
+P0102,Stage I,40-49,Respiratory,Asthma
+P0103,Stage I,40-49,Respiratory,Pulmonary Fibrosis
+P0104,Stage I,40-49,Metabolic/Endocrine,Diabetes
+P0105,Stage I,40-49,Metabolic/Endocrine,Thyroid
+P0106,Stage I,40-49,Metabolic/Endocrine,Obesity
+P0107,Stage I,40-49,Renal,Dialysis
+P0108,Stage I,40-49,Renal,Kidney Stone
+P0109,Stage I,40-49,Bones,Arthritis
+P0110,Stage I,40-49,Bones,Lupus/Sclerosis
+P0111,Stage I,40-49,Infectious,HIV/Hepatitis/Tuberculosis
+P0112,Stage I,40-49,Infectious,UTI/Dental Infection
+P0113,Stage I,50-59,Cardiovascular,Heart Attack/Arrhythmias
+P0114,Stage I,50-59,Cardiovascular,Hypertension
+P0115,Stage I,50-59,Cardiovascular,Stroke
+P0116,Stage I,50-59,Respiratory,Asthma
+P0117,Stage I,50-59,Respiratory,Pulmonary Fibrosis
+P0118,Stage I,50-59,Metabolic/Endocrine,Diabetes
+P0119,Stage I,50-59,Metabolic/Endocrine,Thyroid
+P0120,Stage I,50-59,Metabolic/Endocrine,Obesity
+P0121,Stage I,50-59,Renal,Dialysis
+P0122,Stage I,50-59,Renal,Kidney Stone
+P0123,Stage I,50-59,Bones,Arthritis
+P0124,Stage I,50-59,Bones,Lupus/Sclerosis
+P0125,Stage I,50-59,Infectious,HIV/Hepatitis/Tuberculosis
+P0126,Stage I,50-59,Infectious,UTI/Dental Infection
+P0127,Stage I,60+,Cardiovascular,Heart Attack/Arrhythmias
+P0128,Stage I,60+,Cardiovascular,Hypertension
+P0129,Stage I,60+,Cardiovascular,Stroke
+P0130,Stage I,60+,Respiratory,Asthma
+P0131,Stage I,60+,Respiratory,Pulmonary Fibrosis
+P0132,Stage I,60+,Metabolic/Endocrine,Diabetes
+P0133,Stage I,60+,Metabolic/Endocrine,Thyroid
+P0134,Stage I,60+,Metabolic/Endocrine,Obesity
+P0135,Stage I,60+,Renal,Dialysis
+P0136,Stage I,60+,Renal,Kidney Stone
+P0137,Stage I,60+,Bones,Arthritis
+P0138,Stage I,60+,Bones,Lupus/Sclerosis
+P0139,Stage I,60+,Infectious,HIV/Hepatitis/Tuberculosis
+P0140,Stage I,60+,Infectious,UTI/Dental Infection
+P0141,Stage II,<30,Cardiovascular,Heart Attack/Arrhythmias
+P0142,Stage II,<30,Cardiovascular,Hypertension
+P0143,Stage II,<30,Cardiovascular,Stroke
+P0144,Stage II,<30,Respiratory,Asthma
+P0145,Stage II,<30,Respiratory,Pulmonary Fibrosis
+P0146,Stage II,<30,Metabolic/Endocrine,Diabetes
+P0147,Stage II,<30,Metabolic/Endocrine,Thyroid
+P0148,Stage II,<30,Metabolic/Endocrine,Obesity
+P0149,Stage II,<30,Renal,Dialysis
+P0150,Stage II,<30,Renal,Kidney Stone
+P0151,Stage II,<30,Bones,Arthritis
+P0152,Stage II,<30,Bones,Lupus/Sclerosis
+P0153,Stage II,<30,Infectious,HIV/Hepatitis/Tuberculosis
+P0154,Stage II,<30,Infectious,UTI/Dental Infection
+P0155,Stage II,30-39,Cardiovascular,Heart Attack/Arrhythmias
+P0156,Stage II,30-39,Cardiovascular,Hypertension
+P0157,Stage II,30-39,Cardiovascular,Stroke
+P0158,Stage II,30-39,Respiratory,Asthma
+P0159,Stage II,30-39,Respiratory,Pulmonary Fibrosis
+P0160,Stage II,30-39,Metabolic/Endocrine,Diabetes
+P0161,Stage II,30-39,Metabolic/Endocrine,Thyroid
+P0162,Stage II,30-39,Metabolic/Endocrine,Obesity
+P0163,Stage II,30-39,Renal,Dialysis
+P0164,Stage II,30-39,Renal,Kidney Stone
+P0165,Stage II,30-39,Bones,Arthritis
+P0166,Stage II,30-39,Bones,Lupus/Sclerosis
+P0167,Stage II,30-39,Infectious,HIV/Hepatitis/Tuberculosis
+P0168,Stage II,30-39,Infectious,UTI/Dental Infection
+P0169,Stage II,40-49,Cardiovascular,Heart Attack/Arrhythmias
+P0170,Stage II,40-49,Cardiovascular,Hypertension
+P0171,Stage II,40-49,Cardiovascular,Stroke
+P0172,Stage II,40-49,Respiratory,Asthma
+P0173,Stage II,40-49,Respiratory,Pulmonary Fibrosis
+P0174,Stage II,40-49,Metabolic/Endocrine,Diabetes
+P0175,Stage II,40-49,Metabolic/Endocrine,Thyroid
+P0176,Stage II,40-49,Metabolic/Endocrine,Obesity
+P0177,Stage II,40-49,Renal,Dialysis
+P0178,Stage II,40-49,Renal,Kidney Stone
+P0179,Stage II,40-49,Bones,Arthritis
+P0180,Stage II,40-49,Bones,Lupus/Sclerosis
+P0181,Stage II,40-49,Infectious,HIV/Hepatitis/Tuberculosis
+P0182,Stage II,40-49,Infectious,UTI/Dental Infection
+P0183,Stage II,50-59,Cardiovascular,Heart Attack/Arrhythmias
+P0184,Stage II,50-59,Cardiovascular,Hypertension
+P0185,Stage II,50-59,Cardiovascular,Stroke
+P0186,Stage II,50-59,Respiratory,Asthma
+P0187,Stage II,50-59,Respiratory,Pulmonary Fibrosis
+P0188,Stage II,50-59,Metabolic/Endocrine,Diabetes
+P0189,Stage II,50-59,Metabolic/Endocrine,Thyroid
+P0190,Stage II,50-59,Metabolic/Endocrine,Obesity
+P0191,Stage II,50-59,Renal,Dialysis
+P0192,Stage II,50-59,Renal,Kidney Stone
+P0193,Stage II,50-59,Bones,Arthritis
+P0194,Stage II,50-59,Bones,Lupus/Sclerosis
+P0195,Stage II,50-59,Infectious,HIV/Hepatitis/Tuberculosis
+P0196,Stage II,50-59,Infectious,UTI/Dental Infection
+P0197,Stage II,60+,Cardiovascular,Heart Attack/Arrhythmias
+P0198,Stage II,60+,Cardiovascular,Hypertension
+P0199,Stage II,60+,Cardiovascular,Stroke
+P0200,Stage II,60+,Respiratory,Asthma
+P0201,Stage II,60+,Respiratory,Pulmonary Fibrosis
+P0202,Stage II,60+,Metabolic/Endocrine,Diabetes
+P0203,Stage II,60+,Metabolic/Endocrine,Thyroid
+P0204,Stage II,60+,Metabolic/Endocrine,Obesity
+P0205,Stage II,60+,Renal,Dialysis
+P0206,Stage II,60+,Renal,Kidney Stone
+P0207,Stage II,60+,Bones,Arthritis
+P0208,Stage II,60+,Bones,Lupus/Sclerosis
+P0209,Stage II,60+,Infectious,HIV/Hepatitis/Tuberculosis
+P0210,Stage II,60+,Infectious,UTI/Dental Infection
+P0211,Stage III,<30,Cardiovascular,Heart Attack/Arrhythmias
+P0212,Stage III,<30,Cardiovascular,Hypertension
+P0213,Stage III,<30,Cardiovascular,Stroke
+P0214,Stage III,<30,Respiratory,Asthma
+P0215,Stage III,<30,Respiratory,Pulmonary Fibrosis
+P0216,Stage III,<30,Metabolic/Endocrine,Diabetes
+P0217,Stage III,<30,Metabolic/Endocrine,Thyroid
+P0218,Stage III,<30,Metabolic/Endocrine,Obesity
+P0219,Stage III,<30,Renal,Dialysis
+P0220,Stage III,<30,Renal,Kidney Stone
+P0221,Stage III,<30,Bones,Arthritis
+P0222,Stage III,<30,Bones,Lupus/Sclerosis
+P0223,Stage III,<30,Infectious,HIV/Hepatitis/Tuberculosis
+P0224,Stage III,<30,Infectious,UTI/Dental Infection
+P0225,Stage III,30-39,Cardiovascular,Heart Attack/Arrhythmias
+P0226,Stage III,30-39,Cardiovascular,Hypertension
+P0227,Stage III,30-39,Cardiovascular,Stroke
+P0228,Stage III,30-39,Respiratory,Asthma
+P0229,Stage III,30-39,Respiratory,Pulmonary Fibrosis
+P0230,Stage III,30-39,Metabolic/Endocrine,Diabetes
+P0231,Stage III,30-39,Metabolic/Endocrine,Thyroid
+P0232,Stage III,30-39,Metabolic/Endocrine,Obesity
+P0233,Stage III,30-39,Renal,Dialysis
+P0234,Stage III,30-39,Renal,Kidney Stone
+P0235,Stage III,30-39,Bones,Arthritis
+P0236,Stage III,30-39,Bones,Lupus/Sclerosis
+P0237,Stage III,30-39,Infectious,HIV/Hepatitis/Tuberculosis
+P0238,Stage III,30-39,Infectious,UTI/Dental Infection
+P0239,Stage III,40-49,Cardiovascular,Heart Attack/Arrhythmias
+P0240,Stage III,40-49,Cardiovascular,Hypertension
+P0241,Stage III,40-49,Cardiovascular,Stroke
+P0242,Stage III,40-49,Respiratory,Asthma
+P0243,Stage III,40-49,Respiratory,Pulmonary Fibrosis
+P0244,Stage III,40-49,Metabolic/Endocrine,Diabetes
+P0245,Stage III,40-49,Metabolic/Endocrine,Thyroid
+P0246,Stage III,40-49,Metabolic/Endocrine,Obesity
+P0247,Stage III,40-49,Renal,Dialysis
+P0248,Stage III,40-49,Renal,Kidney Stone
+P0249,Stage III,40-49,Bones,Arthritis
+P0250,Stage III,40-49,Bones,Lupus/Sclerosis
+P0251,Stage III,40-49,Infectious,HIV/Hepatitis/Tuberculosis
+P0252,Stage III,40-49,Infectious,UTI/Dental Infection
+P0253,Stage III,50-59,Cardiovascular,Heart Attack/Arrhythmias
+P0254,Stage III,50-59,Cardiovascular,Hypertension
+P0255,Stage III,50-59,Cardiovascular,Stroke
+P0256,Stage III,50-59,Respiratory,Asthma
+P0257,Stage III,50-59,Respiratory,Pulmonary Fibrosis
+P0258,Stage III,50-59,Metabolic/Endocrine,Diabetes
+P0259,Stage III,50-59,Metabolic/Endocrine,Thyroid
+P0260,Stage III,50-59,Metabolic/Endocrine,Obesity
+P0261,Stage III,50-59,Renal,Dialysis
+P0262,Stage III,50-59,Renal,Kidney Stone
+P0263,Stage III,50-59,Bones,Arthritis
+P0264,Stage III,50-59,Bones,Lupus/Sclerosis
+P0265,Stage III,50-59,Infectious,HIV/Hepatitis/Tuberculosis
+P0266,Stage III,50-59,Infectious,UTI/Dental Infection
+P0267,Stage III,60+,Cardiovascular,Heart Attack/Arrhythmias
+P0268,Stage III,60+,Cardiovascular,Hypertension
+P0269,Stage III,60+,Cardiovascular,Stroke
+P0270,Stage III,60+,Respiratory,Asthma
+P0271,Stage III,60+,Respiratory,Pulmonary Fibrosis
+P0272,Stage III,60+,Metabolic/Endocrine,Diabetes
+P0273,Stage III,60+,Metabolic/Endocrine,Thyroid
+P0274,Stage III,60+,Metabolic/Endocrine,Obesity
+P0275,Stage III,60+,Renal,Dialysis
+P0276,Stage III,60+,Renal,Kidney Stone
+P0277,Stage III,60+,Bones,Arthritis
+P0278,Stage III,60+,Bones,Lupus/Sclerosis
+P0279,Stage III,60+,Infectious,HIV/Hepatitis/Tuberculosis
+P0280,Stage III,60+,Infectious,UTI/Dental Infection
+P0281,Stage IV,<30,Cardiovascular,Heart Attack/Arrhythmias
+P0282,Stage IV,<30,Cardiovascular,Hypertension
+P0283,Stage IV,<30,Cardiovascular,Stroke
+P0284,Stage IV,<30,Respiratory,Asthma
+P0285,Stage IV,<30,Respiratory,Pulmonary Fibrosis
+P0286,Stage IV,<30,Metabolic/Endocrine,Diabetes
+P0287,Stage IV,<30,Metabolic/Endocrine,Thyroid
+P0288,Stage IV,<30,Metabolic/Endocrine,Obesity
+P0289,Stage IV,<30,Renal,Dialysis
+P0290,Stage IV,<30,Renal,Kidney Stone
+P0291,Stage IV,<30,Bones,Arthritis
+P0292,Stage IV,<30,Bones,Lupus/Sclerosis
+P0293,Stage IV,<30,Infectious,HIV/Hepatitis/Tuberculosis
+P0294,Stage IV,<30,Infectious,UTI/Dental Infection
+P0295,Stage IV,30-39,Cardiovascular,Heart Attack/Arrhythmias
+P0296,Stage IV,30-39,Cardiovascular,Hypertension
+P0297,Stage IV,30-39,Cardiovascular,Stroke
+P0298,Stage IV,30-39,Respiratory,Asthma
+P0299,Stage IV,30-39,Respiratory,Pulmonary Fibrosis
+P0300,Stage IV,30-39,Metabolic/Endocrine,Diabetes
+P0301,Stage IV,30-39,Metabolic/Endocrine,Thyroid
+P0302,Stage IV,30-39,Metabolic/Endocrine,Obesity
+P0303,Stage IV,30-39,Renal,Dialysis
+P0304,Stage IV,30-39,Renal,Kidney Stone
+P0305,Stage IV,30-39,Bones,Arthritis
+P0306,Stage IV,30-39,Bones,Lupus/Sclerosis
+P0307,Stage IV,30-39,Infectious,HIV/Hepatitis/Tuberculosis
+P0308,Stage IV,30-39,Infectious,UTI/Dental Infection
+P0309,Stage IV,40-49,Cardiovascular,Heart Attack/Arrhythmias
+P0310,Stage IV,40-49,Cardiovascular,Hypertension
+P0311,Stage IV,40-49,Cardiovascular,Stroke
+P0312,Stage IV,40-49,Respiratory,Asthma
+P0313,Stage IV,40-49,Respiratory,Pulmonary Fibrosis
+P0314,Stage IV,40-49,Metabolic/Endocrine,Diabetes
+P0315,Stage IV,40-49,Metabolic/Endocrine,Thyroid
+P0316,Stage IV,40-49,Metabolic/Endocrine,Obesity
+P0317,Stage IV,40-49,Renal,Dialysis
+P0318,Stage IV,40-49,Renal,Kidney Stone
+P0319,Stage IV,40-49,Bones,Arthritis
+P0320,Stage IV,40-49,Bones,Lupus/Sclerosis
+P0321,Stage IV,40-49,Infectious,HIV/Hepatitis/Tuberculosis
+P0322,Stage IV,40-49,Infectious,UTI/Dental Infection
+P0323,Stage IV,50-59,Cardiovascular,Heart Attack/Arrhythmias
+P0324,Stage IV,50-59,Cardiovascular,Hypertension
+P0325,Stage IV,50-59,Cardiovascular,Stroke
+P0326,Stage IV,50-59,Respiratory,Asthma
+P0327,Stage IV,50-59,Respiratory,Pulmonary Fibrosis
+P0328,Stage IV,50-59,Metabolic/Endocrine,Diabetes
+P0329,Stage IV,50-59,Metabolic/Endocrine,Thyroid
+P0330,Stage IV,50-59,Metabolic/Endocrine,Obesity
+P0331,Stage IV,50-59,Renal,Dialysis
+P0332,Stage IV,50-59,Renal,Kidney Stone
+P0333,Stage IV,50-59,Bones,Arthritis
+P0334,Stage IV,50-59,Bones,Lupus/Sclerosis
+P0335,Stage IV,50-59,Infectious,HIV/Hepatitis/Tuberculosis
+P0336,Stage IV,50-59,Infectious,UTI/Dental Infection
+P0337,Stage IV,60+,Cardiovascular,Heart Attack/Arrhythmias
+P0338,Stage IV,60+,Cardiovascular,Hypertension
+P0339,Stage IV,60+,Cardiovascular,Stroke
+P0340,Stage IV,60+,Respiratory,Asthma
+P0341,Stage IV,60+,Respiratory,Pulmonary Fibrosis
+P0342,Stage IV,60+,Metabolic/Endocrine,Diabetes
+P0343,Stage IV,60+,Metabolic/Endocrine,Thyroid
+P0344,Stage IV,60+,Metabolic/Endocrine,Obesity
+P0345,Stage IV,60+,Renal,Dialysis
+P0346,Stage IV,60+,Renal,Kidney Stone
+P0347,Stage IV,60+,Bones,Arthritis
+P0348,Stage IV,60+,Bones,Lupus/Sclerosis
+P0349,Stage IV,60+,Infectious,HIV/Hepatitis/Tuberculosis
+P0350,Stage IV,60+,Infectious,UTI/Dental Infection
